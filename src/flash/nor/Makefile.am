@@ -61,6 +61,7 @@ NOR_DRIVERS = \
 	%D%/renesas_rpchf.c \
 	%D%/rp2xxx.c \
 	%D%/rsl10.c \
+	%D%/scqspi.c \
 	%D%/sfdp.c \
 	%D%/sh_qspi.c \
 	%D%/sim3x.c \
@@ -95,6 +96,7 @@ NORHEADERS = \
 	%D%/imp.h \
 	%D%/non_cfi.h \
 	%D%/ocl.h \
+	%D%/scqspi.h \
 	%D%/sfdp.h \
 	%D%/spi.h \
 	%D%/stm32l4x.h \
